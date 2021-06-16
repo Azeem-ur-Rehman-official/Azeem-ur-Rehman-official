@@ -1,0 +1,47 @@
+.leader {
+  padding: 12px;
+  background-color: rebeccapurple;
+  color: white;
+  margin-top: 0px;
+}
+.logout {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  color: white;
+}
+.wel {
+  text-transform: uppercase;
+  color: rebeccapurple;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.contents {
+  width: 100%;
+  align-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+.sort {
+  background-color: pink;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}

@@ -1,0 +1,10 @@
+.btn {
+  padding: 10px;
+  margin: 3px;
+  color: white;
+  background-color: rebeccapurple;
+  border-radius: 10px;
+}
+.btn:hover {
+  background-color: green;
+}
